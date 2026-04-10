@@ -1,4 +1,8 @@
-# Jingle Repo Example
+# Clarf's Custom Jingle Repo
+
+Note I did not make any of these as of now, I am just adding them for access by the Cocoon community. Credits will be in the [Credits List](./CREDITS.md)
+
+## Jingle Repo Example
 
 A template repository for creating Cocoon jingle packs. Use this template
 to build your own collection of game jingles that can be used with
