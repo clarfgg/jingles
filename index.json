@@ -38,6 +38,8 @@
     { "game": "Metroid II Return of Samus", "file": "jingles/gbc/natalie/Metroid II Return of Samus.wav" },
     { "game": "Animal Crossing GC", "file": "jingles/gc/natalie/Animal Crossing GC.wav" },
     { "game": "Mario Kart Double Dash", "file": "jingles/gc/natalie/Mario Kart Double Dash.wav" },
+    { "game": "Sonic Adventure 2", "file": "jingles/gc/natalie/Sonic Adventure 2.ogg" },
+    { "game": "Sonic Adventure", "file": "jingles/gc/natalie/Sonic Adventure.ogg" },
     { "game": "Alien Soldier", "file": "jingles/megadrive/flapperultra/Alien Soldier.wav" },
     { "game": "Alien Storm", "file": "jingles/megadrive/flapperultra/Alien Storm.wav" },
     { "game": "Alisia Dragoon", "file": "jingles/megadrive/flapperultra/Alisia Dragoon.wav" },
