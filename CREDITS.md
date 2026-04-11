@@ -22,3 +22,10 @@ Thank you to the folks who made these jingles in the Cocoon discord!
 - [NES](./jingles/nes/natalie/)
 - [SNES](./jingles/snes/natalie/)
 - [WII](./jingles/wii/natalie)
+
+## GracieFailfox
+- [Ace Attorney](./jingles/misc/GracieFailfox/Ace%20Attorney/)
+- [Mega Man](./jingles/misc/GracieFailfox/Mega%20Man/)
+- [Other](./jingles/misc/GracieFailfox/Other/)
+- [Sonic](./jingles/misc/GracieFailfox/Sonic/)
+- [Zelda](./jingles/misc/GracieFailfox/Zelda/)
