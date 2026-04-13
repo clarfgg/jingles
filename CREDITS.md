@@ -17,10 +17,12 @@ Thank you to the folks who made these jingles in the Cocoon discord!
 - [GBC](./jingles/gbc/natalie/)
 - [GC](./jingles/gc/natalie/)
 - [Misc](./jingles/misc/natalie/)
+- [N3DS](./jingles/n3ds/natalie/)
 - [N64](./jingles/n64/natalie/)
 - [NDS](./jingles/nds/natalie/)
 - [NES](./jingles/nes/natalie/)
 - [SNES](./jingles/snes/natalie/)
+- [SW](./jingles/switch/natalie/)
 - [WII](./jingles/wii/natalie)
 
 ## GracieFailfox
