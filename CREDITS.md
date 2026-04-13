@@ -21,6 +21,8 @@ Thank you to the folks who made these jingles in the Cocoon discord!
 - [N64](./jingles/n64/natalie/)
 - [NDS](./jingles/nds/natalie/)
 - [NES](./jingles/nes/natalie/)
+- [PSX](./jingles/psx/natalie/)
+- [PS2](./jingles/ps2/natalie/)
 - [SNES](./jingles/snes/natalie/)
 - [SW](./jingles/switch/natalie/)
 - [WII](./jingles/wii/natalie)
