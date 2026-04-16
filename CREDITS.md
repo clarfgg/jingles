@@ -4,6 +4,7 @@ Thank you to the folks who made these jingles in the Cocoon discord!
 
 ## flapperultra
 - [GBC](./jingles/gbc/flapperultra/)
+- [GC](./jingles/gc/flapperultra/)
 - [MegaDrive](./jingles/megadrive/flapperultra/)
 - [NDS](./jingles/nds/flapperultra/)
 - [NES](./jingles/nes/flapperultra/)
